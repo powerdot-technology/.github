@@ -25,6 +25,7 @@
       - inf-tf-stg
       - inf-tf-dev
       - inf-tf-qa
+      - inf-tf-template-*
     - **Automations**: inf-auto-*
     - **Repo Templates**: inf-template-*
 2. **Backend related repos**: bck-*
