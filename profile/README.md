@@ -14,17 +14,21 @@
 
 ## Naming Convention
 
-1. inf-* Infra related repos
-    - *Ansible*: inf-ans-*
+1. **Infra related repos**: inf-* 
+    - **Ansible**: inf-ans-*
       - inf-ans-prd
       - inf-ans-stg
       - inf-ans-dev
       - inf-ans-qa
-    - *Terraform* inf-tf-* 
-      - inf-tf-prd 
-      - inf-tf-stg 
-      - inf-tf-dev 
-      - inf-tf-qa 
-    - *Automations* inf-auto-* 
-2. bck-* Backend related repos
-3. frt-* Frontend related repos
+    - **Terraform**: inf-tf-*
+      - inf-tf-prd
+      - inf-tf-stg
+      - inf-tf-dev
+      - inf-tf-qa
+    - **Automations**: inf-auto-*
+    - **Repo Templates**: inf-template-*
+2. **Backend related repos**: bck-*
+3. **Frontend related repos**: frt-*
+4. **Data related repos**: data-*
+5. **Tool Related Repos**: tools-*
+6. **Research Related Repos**: research-*
