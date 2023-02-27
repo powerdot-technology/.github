@@ -32,4 +32,3 @@
 3. **Frontend related repos**: frt-*
 4. **Data related repos**: data-*
 5. **Tool Related Repos**: tools-*
-6. **Research Related Repos**: research-*
