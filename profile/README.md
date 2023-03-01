@@ -2,7 +2,7 @@
 
 Read the documentation for a proper presentation!
 
-[Confluence](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
+[GitHub Confluence Space](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
 
 
 Safe charging!
