@@ -1,8 +1,8 @@
-# PowerDot Technology
+# Powerdot
 
-Read the documentation for a proper presentation!
+[Official webpage](https://www.powerdot.eu/)
 
-[GitHub Confluence Space](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
+[GitHub Docs](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
 
 
 Safe charging!
