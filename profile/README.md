@@ -1,6 +1,6 @@
 # Powerdot
 
-[Official webpage](https://www.powerdot.eu/)
+[Corporate webpage](https://www.powerdot.eu/)
 
 [GitHub Docs](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
 
