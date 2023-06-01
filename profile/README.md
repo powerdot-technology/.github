@@ -2,7 +2,7 @@
 
 [Corporate webpage](https://www.powerdot.eu/)
 
-[GitHub Docs](https://power-dot.atlassian.net/wiki/spaces/CO/pages/1585807561/Github)
+[GitHub Docs](https://github.com/powerdot-technology/inf-documentation)
 
 
 Safe charging!
